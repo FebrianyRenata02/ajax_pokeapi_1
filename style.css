@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+
+section {
+    background-color: #e7c859;
+    color: #f9fbfd;
+    /* width: 60%; */
+    /* margin: 40px auto 100px auto; */
+    border-radius: 10px;
+    padding: 40px 40px;
+    border: 5px solid #d0b349;
+    text-align: center;
+    display: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    background-color: #f5df92;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 2px solid #d7c070;
+}
